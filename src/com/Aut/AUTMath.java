@@ -49,4 +49,21 @@ public class AUTMath {
         double result=num1;
         return result/num2;
     }
+
+    /**
+     * gets a number and returns its factorial.
+     *
+     * @param number the number
+     * @return int
+     */
+    public static long factorial(int number) {
+        int result = 1;
+
+        for (int counter = 1; counter <= number; counter++) {
+            result = multiply(result, counter);
+        }
+        return result;
+    }
+
+
 }

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af1be52-a9e5-47c8-ad4b-ad142e318af0" name="Changes" comment="feat : ggets a number and returns its factorial.">
-      <change beforePath="$PROJECT_DIR$/src/com/Aut/AUTMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Aut/AUTMath.java" afterDir="false" />
-    </list>
+    <list default="true" id="3af1be52-a9e5-47c8-ad4b-ad142e318af0" name="Changes" comment="feat : gets an index and calculates the fibonacci sequence at that exact index recursively." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,9 +89,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.Aut.Main" />
       <module name="dastoorkar5" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -159,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672395621188</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat : gets an index and calculates the fibonacci sequence at that exact index recursively.">
+      <created>1672395656343</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672395656343</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +185,7 @@
     <MESSAGE value="feat : gets two numbers and returns their subtraction." />
     <MESSAGE value="feat : gets two numbers and returns their division." />
     <MESSAGE value="feat : ggets a number and returns its factorial." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : ggets a number and returns its factorial." />
+    <MESSAGE value="feat : gets an index and calculates the fibonacci sequence at that exact index recursively." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : gets an index and calculates the fibonacci sequence at that exact index recursively." />
   </component>
 </project>

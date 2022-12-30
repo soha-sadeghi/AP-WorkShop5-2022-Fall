@@ -82,4 +82,21 @@ public class AUTMath {
     }
 
 
+    /**
+     * gets a base and a power and calculates base in power of the input.
+     *
+     * @param base  the base
+     * @param power the power
+     * @return int
+     */
+
+    public static int pow(int base, int power) {
+        int result = 1;
+
+        for (int counter = 1; counter <=power; counter++) {
+            result = multiply(result,base);
+        }
+
+        return result;
+    }
 }

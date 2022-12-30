@@ -35,4 +35,18 @@ public class AUTMath {
     public static int multiply(int num1, int num2) {
         return num1 * num2;
     }
+
+
+    /**
+     * gets two numbers and returns their division.
+     *
+     * @param num1 the num 1
+     * @param num2 the num 2
+     * @return int
+     */
+
+    public static double divide(int num1, int num2) {
+        double result=num1;
+        return result/num2;
+    }
 }

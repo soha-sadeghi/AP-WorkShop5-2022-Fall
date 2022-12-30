@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af1be52-a9e5-47c8-ad4b-ad142e318af0" name="Changes" comment="feat : gets two integers and returns their sum.">
+    <list default="true" id="3af1be52-a9e5-47c8-ad4b-ad142e318af0" name="Changes" comment="feat : ggets a number and returns its factorial.">
       <change beforePath="$PROJECT_DIR$/src/com/Aut/AUTMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Aut/AUTMath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,35 @@
       <option name="project" value="LOCAL" />
       <updated>1672395259693</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat : gets two integer and returns their subtraction.">
+      <created>1672395307374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672395307374</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat : gets two numbers and returns their subtraction.">
+      <created>1672395350137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672395350137</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat : gets two numbers and returns their division.">
+      <created>1672395422256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672395422256</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat : ggets a number and returns its factorial.">
+      <created>1672395621188</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672395621188</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +177,10 @@
     <MESSAGE value="initial commit : delete comment" />
     <MESSAGE value="feat : created autmath class" />
     <MESSAGE value="feat : gets two integers and returns their sum." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : gets two integers and returns their sum." />
+    <MESSAGE value="feat : gets two integer and returns their subtraction." />
+    <MESSAGE value="feat : gets two numbers and returns their subtraction." />
+    <MESSAGE value="feat : gets two numbers and returns their division." />
+    <MESSAGE value="feat : ggets a number and returns its factorial." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : ggets a number and returns its factorial." />
   </component>
 </project>

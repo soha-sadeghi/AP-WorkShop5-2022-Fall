@@ -66,4 +66,20 @@ public class AUTMath {
     }
 
 
+    /**
+     * gets an index and calculates the fibonacci sequence at that exact index recursively.
+     *
+     * @param index the index
+     * @return int
+     */
+
+    public static int fib(int index) {
+        if (index == 0 || index == 1) {
+            return index;
+        }
+
+        return fib(index-1)+fib(index-2);
+    }
+
+
 }
